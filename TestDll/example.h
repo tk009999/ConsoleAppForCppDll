@@ -1,3 +1,7 @@
+/// Thanks for sharing
+/// The sample code is refrence by Hiruma Kazuya
+/// The article source from the URL: https://edom18.medium.com/how-to-make-c-dll-and-use-it-in-unity-292624f9e87a
+
 #pragma once
 
 #if defined (EXPORTBUILD)
